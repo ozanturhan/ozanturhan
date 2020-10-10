@@ -1,8 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Ozan</h1>
 
 
-<p>Welcome to my page! </br> Since 2012 I have been working as a Software Developer. I worked with Symfony, Angular 2+, React, GraphQL, and Java (for android applications). I worked on domains such as accounting, e-commerce, sales, technical service, mobile sales, restaurant automation (developed for android), cash register and payment system integrations.</p>
-<h3>Things I code with</h3>
+<p>Welcome to my page! </br></br> Since 2012 I have been working as a Software Developer. I worked with Symfony, Angular 2+, React, GraphQL, and Java (for android applications). I worked on domains such as accounting, e-commerce, sales, technical service, mobile sales, restaurant automation (developed for android), cash register and payment system integrations.</p>
+
+You can check my [CV](https://github.com/ozanturhan/ozanturhan/blob/main/Mehmet%20Ozan%20Turhan.pdf).
+<h3>Tech Stack</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
