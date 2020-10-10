@@ -1,7 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Ozan</h1>
 
 
-<p>Welcome to my page! </br> I'm Ozan, Senior Software Specialist from Turkey, currently working for Etiya.</p>
+<p>Welcome to my page! </br> Since 2012 I have been working as a Software Developer. I worked with Symfony, Angular 2+, React, GraphQL, and Java (for android applications). I worked on domains such as accounting, e-commerce, sales, technical service, mobile sales, restaurant automation (developed for android), cash register and payment system integrations.</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
