@@ -1,7 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Ozan</h1>
 
 
-<p>Welcome to my page! </br></br> Since 2012 I have been working as a Software Developer. I worked with Symfony, Angular 2+, React, GraphQL, and Java (for android applications). I worked on domains such as accounting, e-commerce, sales, technical service, mobile sales, restaurant automation (developed for android), cash register and payment system integrations.</p>
+<p>Welcome to my page! </br></br> Since 2012 I have been working as a Software Developer. I manage my projects carefully in accordance with software development standards. My areas of experience are accounting, e-commerce, B2B, sales systems, restaurant automation, cash register, telecommunication and integration of payment systems.
+
+Technologies that I mainly use; Javascript, Typescript, Angular 2+, React, Symfony 4. In addition, I worked in many different projects in different technologies and languages such as Java, C++ (JNI), Android, React Native, NestJS, GraphQL and SOAP.</p>
 
 You can check my [CV](https://github.com/ozanturhan/ozanturhan/blob/main/Mehmet%20Ozan%20Turhan.pdf).
 <h3>Tech Stack</h3>
