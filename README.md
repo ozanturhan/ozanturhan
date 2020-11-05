@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Ozan</h1>
+<h1>Hello, I'm Ozan</h1>
 
 
 <p>Welcome to my page! </br></br> Since 2012 I have been working as a Software Developer. I manage my projects carefully in accordance with software development standards. My areas of experience are accounting, e-commerce, B2B, sales systems, restaurant automation, cash register, telecommunication and integration of payment systems.
